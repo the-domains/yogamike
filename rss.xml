@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:42:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af580180-0d07-4164-9976-6b362bb59698.jpg">]]></description>
+            <link>https://thegrid.ai/yogamike/2a29c6fb-c0b4-4178-b204-11434e156992/index.html</link>
+            <guid isPermaLink="false">2a29c6fb-c0b4-4178-b204-11434e156992</guid>
+            <pubDate>Thu, 21 Apr 2016 22:41:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"Asana is very beautiful and serene, internally, even if it looks basic or boring from outside."</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/the-asanas-themselves-have-become-my-most-cherished-teacher/index.html</link>
             <guid isPermaLink="false">ffc28abd-8093-4594-9131-32412a099b11</guid>
             <pubDate>Thu, 21 Apr 2016 21:59:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c9974fd-456a-42c9-8536-1181108d71cb.jpg">]]></description>
-            <link>https://thegrid.ai/yogamike/b4006b51-b812-4867-8e83-eede524c1b25/index.html</link>
-            <guid isPermaLink="false">b4006b51-b812-4867-8e83-eede524c1b25</guid>
-            <pubDate>Thu, 21 Apr 2016 21:55:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
