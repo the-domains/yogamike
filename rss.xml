@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:47:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e91211f1-a6e7-4a32-8c93-9c06d8899f3a.jpg">]]></description>
+            <link>https://thegrid.ai/yogamike/d385b533-bdb9-45c7-bc02-2ee38617428e/index.html</link>
+            <guid isPermaLink="false">d385b533-bdb9-45c7-bc02-2ee38617428e</guid>
+            <pubDate>Thu, 21 Apr 2016 22:47:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>If you don't know where you're going.. It's new, it's awkward.. There is effort and confusion and thinking.. But when you know, you can flow, and find bliss.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/b19a75c2-4327-491a-b4db-daff43c2748c/index.html</link>
             <guid isPermaLink="false">b19a75c2-4327-491a-b4db-daff43c2748c</guid>
             <pubDate>Thu, 21 Apr 2016 22:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Many yogis seem to equate "depth" of a posture, or "advanced" variations with skill. They think that by doing the full bind, or the lotus variation etc. that they will be doing it better than if they simply experience the basic alignment of the posture.]]></title>
-            <description><![CDATA[<h1>Many yogis seem to equate "depth" of a posture, or "advanced" variations with skill. They think that by doing the full bind, or the lotus variation etc. that they will be doing it better than if they simply experience the basic alignment of the posture.</h1>]]></description>
-            <link>https://thegrid.ai/yogamike/many-yogis-seem-to-equate-depth-of-a-posture-or-advanced/index.html</link>
-            <guid isPermaLink="false">cbbc07bd-1df3-46f5-bf97-88dcf8957eae</guid>
-            <pubDate>Thu, 21 Apr 2016 22:12:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
