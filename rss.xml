@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:42:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Words cannot explain the state of yoga.. You have to experience it to understand it.. Don't try to analyze yoga.. Instead strive to live it.. Silently, undividedly, with your whole harmonious being..</p>]]></description>
+            <link>https://thegrid.ai/yogamike/words-cannot-explain-the-state-of-yoga-you-have-to-experie/index.html</link>
+            <guid isPermaLink="false">9cf85d16-a0fb-45e6-b061-b508e4f28dc5</guid>
+            <pubDate>Thu, 21 Apr 2016 22:42:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af580180-0d07-4164-9976-6b362bb59698.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/3cb889ac-a86c-4590-8737-27b62d331fbc/index.html</link>
             <guid isPermaLink="false">3cb889ac-a86c-4590-8737-27b62d331fbc</guid>
             <pubDate>Thu, 21 Apr 2016 22:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"The asanas themselves have become my most cherished teachers."</p>]]></description>
-            <link>https://thegrid.ai/yogamike/the-asanas-themselves-have-become-my-most-cherished-teacher/index.html</link>
-            <guid isPermaLink="false">ffc28abd-8093-4594-9131-32412a099b11</guid>
-            <pubDate>Thu, 21 Apr 2016 21:59:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
