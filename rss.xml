@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:30:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c2042c8-cd59-415e-a3b5-f5d5841195ce.jpg">]]></description>
+            <link>https://thegrid.ai/yogamike/2cc9ad2f-5596-46e3-b13e-54b78add6b1d/index.html</link>
+            <guid isPermaLink="false">2cc9ad2f-5596-46e3-b13e-54b78add6b1d</guid>
+            <pubDate>Thu, 21 Apr 2016 22:30:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Allow the posture to evolve naturally through the breath.. Let the ability to breathe, or in some cases lack thereof, help to determine whether to continue further, stay put, or even back up."]]></title>
             <description><![CDATA[<h1>"Allow the posture to evolve naturally through the breath.. Let the ability to breathe, or in some cases lack thereof, help to determine whether to continue further, stay put, or even back up."</h1>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/as-i-spend-more-time-in-a-perfect-state-of-bliss-while-doing/index.html</link>
             <guid isPermaLink="false">6268fcfa-ae69-4238-a5e7-ec90efb161b0</guid>
             <pubDate>Thu, 21 Apr 2016 21:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50c27ccf-3da8-4dca-83e1-21a940cf7982.jpg">]]></description>
-            <link>https://thegrid.ai/yogamike/1191fead-8c2f-47c0-ae6e-5ad0fcb6ed70/index.html</link>
-            <guid isPermaLink="false">1191fead-8c2f-47c0-ae6e-5ad0fcb6ed70</guid>
-            <pubDate>Thu, 21 Apr 2016 21:43:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
