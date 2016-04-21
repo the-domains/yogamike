@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 23:00:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Whatever I'm doing, however exciting or mundane.. No matter.. I can find bliss in the experience.. I can be present.</p>]]></description>
+            <link>https://thegrid.ai/yogamike/whatever-im-doing-however-exciting-or-mundane-no-matter/index.html</link>
+            <guid isPermaLink="false">0fffe292-7476-4e3c-bac4-e9974515fc89</guid>
+            <pubDate>Thu, 21 Apr 2016 23:00:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9048302f-7bba-4474-8043-228361588b16.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/asana-is-very-beautiful-and-serene-internally-even-if-it/index.html</link>
             <guid isPermaLink="false">a5a8537b-f186-4123-b47c-411e900bcaf1</guid>
             <pubDate>Thu, 21 Apr 2016 22:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advanced asana practice is not about how far you can stretch. Yoga Sutras 2.46-2.48 teach us the classical way to achieve and perfect asana, and the result of doing it correctly.]]></title>
-            <description><![CDATA[<h1>Advanced asana practice is not about how far you can stretch. Yoga Sutras 2.46-2.48 teach us the classical way to achieve and perfect asana, and the result of doing it correctly.</h1>]]></description>
-            <link>https://thegrid.ai/yogamike/advanced-asana-practice-is-not-about-how-far-you-can-stretch/index.html</link>
-            <guid isPermaLink="false">d10d0cb6-78e9-4999-b2a6-14137da2dba9</guid>
-            <pubDate>Thu, 21 Apr 2016 22:32:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
