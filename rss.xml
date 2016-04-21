@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:51:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:57:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Attentive awareness of the present moment, whether that is a a sensation, a posture, a movement, a breath, or some combination thereof.. Awareness of what you're feeling, what you're doing, how it feels, how you do it... I intend to make this connection continuously throughout my practice, and my teaching.</p>]]></description>
+            <link>https://thegrid.ai/yogamike/attentive-awareness-of-the-present-moment-whether-that-is-a/index.html</link>
+            <guid isPermaLink="false">6199caad-5a6e-4a62-9086-bd583391b00c</guid>
+            <pubDate>Thu, 21 Apr 2016 22:57:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac2c961-741f-42ae-949e-149fea54f577.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/2cc9ad2f-5596-46e3-b13e-54b78add6b1d/index.html</link>
             <guid isPermaLink="false">2cc9ad2f-5596-46e3-b13e-54b78add6b1d</guid>
             <pubDate>Thu, 21 Apr 2016 22:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Allow the posture to evolve naturally through the breath.. Let the ability to breathe, or in some cases lack thereof, help to determine whether to continue further, stay put, or even back up."]]></title>
-            <description><![CDATA[<h1>"Allow the posture to evolve naturally through the breath.. Let the ability to breathe, or in some cases lack thereof, help to determine whether to continue further, stay put, or even back up."</h1>]]></description>
-            <link>https://thegrid.ai/yogamike/allow-the-posture-to-evolve-naturally-through-the-breath/index.html</link>
-            <guid isPermaLink="false">f5010e19-17f2-488d-a35d-eb19b7eb72f5</guid>
-            <pubDate>Thu, 21 Apr 2016 22:23:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
