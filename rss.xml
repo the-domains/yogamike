@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:59:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9048302f-7bba-4474-8043-228361588b16.jpg">]]></description>
+            <link>https://thegrid.ai/yogamike/97168670-756a-48c3-9beb-95ed383680fd/index.html</link>
+            <guid isPermaLink="false">97168670-756a-48c3-9beb-95ed383680fd</guid>
+            <pubDate>Thu, 21 Apr 2016 22:59:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Attentive awareness of the present moment, whether that is a a sensation, a posture, a movement, a breath, or some combination thereof.. Awareness of what you're feeling, what you're doing, how it feels, how you do it... I intend to make this connection continuously throughout my practice, and my teaching.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/advanced-asana-practice-is-not-about-how-far-you-can-stretch/index.html</link>
             <guid isPermaLink="false">d10d0cb6-78e9-4999-b2a6-14137da2dba9</guid>
             <pubDate>Thu, 21 Apr 2016 22:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c2042c8-cd59-415e-a3b5-f5d5841195ce.jpg">]]></description>
-            <link>https://thegrid.ai/yogamike/2cc9ad2f-5596-46e3-b13e-54b78add6b1d/index.html</link>
-            <guid isPermaLink="false">2cc9ad2f-5596-46e3-b13e-54b78add6b1d</guid>
-            <pubDate>Thu, 21 Apr 2016 22:30:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
