@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:32:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Advanced asana practice is not about how far you can stretch. Yoga Sutras 2.46-2.48 teach us the classical way to achieve and perfect asana, and the result of doing it correctly.]]></title>
+            <description><![CDATA[<h1>Advanced asana practice is not about how far you can stretch. Yoga Sutras 2.46-2.48 teach us the classical way to achieve and perfect asana, and the result of doing it correctly.</h1>]]></description>
+            <link>https://thegrid.ai/yogamike/advanced-asana-practice-is-not-about-how-far-you-can-stretch/index.html</link>
+            <guid isPermaLink="false">d10d0cb6-78e9-4999-b2a6-14137da2dba9</guid>
+            <pubDate>Thu, 21 Apr 2016 22:32:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c2042c8-cd59-415e-a3b5-f5d5841195ce.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/0d790ee7-6557-4f00-a308-9cfda924f060/index.html</link>
             <guid isPermaLink="false">0d790ee7-6557-4f00-a308-9cfda924f060</guid>
             <pubDate>Thu, 21 Apr 2016 21:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>As I spend more time in a perfect state of bliss while doing asanas, the number of asanas and the complexity of them both diminish - like a narrowing down to the essentials of vinyasa practice.. and allowing the internal practices, antaranga sadhana, to take prevalence over my physical fitness ideals.</p>]]></description>
-            <link>https://thegrid.ai/yogamike/as-i-spend-more-time-in-a-perfect-state-of-bliss-while-doing/index.html</link>
-            <guid isPermaLink="false">6268fcfa-ae69-4238-a5e7-ec90efb161b0</guid>
-            <pubDate>Thu, 21 Apr 2016 21:44:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
