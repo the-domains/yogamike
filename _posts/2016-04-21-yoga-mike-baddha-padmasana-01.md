@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T22:36:39.572Z'
-dateModified: '2016-04-21T22:36:38.502Z'
+datePublished: '2016-04-21T22:44:37.090Z'
+dateModified: '2016-04-21T22:38:46.445Z'
 title: Yoga Mike - Baddha Padmasana 01
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-21-yoga-mike-baddha-padmasana-01.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-yoga-mike-baddha-padmasana-01.md
-published: true
 url: yoga-mike-baddha-padmasana-01/index.html
 _type: Article
 
