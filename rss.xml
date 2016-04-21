@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 23:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 23:01:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aebc0231-97ae-426f-a4a9-023ebfe6638d.jpg">]]></description>
+            <link>https://thegrid.ai/yogamike/da073759-45bd-4122-9e11-a4ea7cdc3339/index.html</link>
+            <guid isPermaLink="false">da073759-45bd-4122-9e11-a4ea7cdc3339</guid>
+            <pubDate>Thu, 21 Apr 2016 23:01:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Whatever I'm doing, however exciting or mundane.. No matter.. I can find bliss in the experience.. I can be present.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/2a29c6fb-c0b4-4178-b204-11434e156992/index.html</link>
             <guid isPermaLink="false">2a29c6fb-c0b4-4178-b204-11434e156992</guid>
             <pubDate>Thu, 21 Apr 2016 22:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"Asana is very beautiful and serene, internally, even if it looks basic or boring from outside."</p>]]></description>
-            <link>https://thegrid.ai/yogamike/asana-is-very-beautiful-and-serene-internally-even-if-it/index.html</link>
-            <guid isPermaLink="false">a5a8537b-f186-4123-b47c-411e900bcaf1</guid>
-            <pubDate>Thu, 21 Apr 2016 22:37:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
