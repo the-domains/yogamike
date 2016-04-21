@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:43:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yoga Mike - Dhurvasana 01]]></title>
+            <description><![CDATA[<article><h1>Yoga Mike - Dhurvasana 01</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/891bff6a-f7a4-400b-8ad0-8aece8bd0bcb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/yogamike/yoga-mike-dhurvasana-01/index.html</link>
+            <guid isPermaLink="false">371dbb38-a003-4044-a6d6-bdeca13d2f03</guid>
+            <pubDate>Thu, 21 Apr 2016 22:43:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Words cannot explain the state of yoga.. You have to experience it to understand it.. Don't try to analyze yoga.. Instead strive to live it.. Silently, undividedly, with your whole harmonious being..</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/many-yogis-seem-to-equate-depth-of-a-posture-or-advanced/index.html</link>
             <guid isPermaLink="false">cbbc07bd-1df3-46f5-bf97-88dcf8957eae</guid>
             <pubDate>Thu, 21 Apr 2016 22:12:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa6c83bb-b9bb-4084-a91c-83fb36f36a2e.jpg">]]></description>
-            <link>https://thegrid.ai/yogamike/3cb889ac-a86c-4590-8737-27b62d331fbc/index.html</link>
-            <guid isPermaLink="false">3cb889ac-a86c-4590-8737-27b62d331fbc</guid>
-            <pubDate>Thu, 21 Apr 2016 22:01:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
