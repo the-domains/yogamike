@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 00:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 16:24:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c5db851-84e1-4328-be92-7865a9d0e14d.jpg">]]></description>
+            <link>https://thegrid.ai/yogamike/53a7188d-70ef-4814-af1c-bf1f2b5c03ac/index.html</link>
+            <guid isPermaLink="false">53a7188d-70ef-4814-af1c-bf1f2b5c03ac</guid>
+            <pubDate>Fri, 22 Apr 2016 16:23:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Don't simply take the word of another. Seek understanding through your own personal exploration. Let the practice teach you.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/whatever-im-doing-however-exciting-or-mundane-no-matter/index.html</link>
             <guid isPermaLink="false">0fffe292-7476-4e3c-bac4-e9974515fc89</guid>
             <pubDate>Thu, 21 Apr 2016 23:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9048302f-7bba-4474-8043-228361588b16.jpg">]]></description>
-            <link>https://thegrid.ai/yogamike/97168670-756a-48c3-9beb-95ed383680fd/index.html</link>
-            <guid isPermaLink="false">97168670-756a-48c3-9beb-95ed383680fd</guid>
-            <pubDate>Thu, 21 Apr 2016 22:59:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
