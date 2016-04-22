@@ -1,6 +1,6 @@
 name: yogamike
 favicon: null
-layout_spectrum: 0.14866
+layout_spectrum: 0.43917
 typography_spectrum: 0.42034
 title: Mike Mirabal - Yoga
 cta:
@@ -22,8 +22,8 @@ color:
     - '#350815'
     - '#db9f4b'
     - '#791e1b'
-  brandStrength: 0.625
-  lightness: 0.6875
+  brandStrength: 0.875
+  lightness: 0.625
   saturation: 0
   rhythmicContrast: 1
 purpose: []
