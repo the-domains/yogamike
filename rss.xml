@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 00:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 00:22:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My yoga practice is not merely about what I can do.. it's about how I do whatever it is that I am currently doing.]]></title>
+            <description><![CDATA[<h1>My yoga practice is not merely about what I can do.. it's about how I do whatever it is that I am currently doing.</h1>]]></description>
+            <link>https://thegrid.ai/yogamike/my-yoga-practice-is-not-all-about-what-i-can-do-its-about/index.html</link>
+            <guid isPermaLink="false">5187b501-36bb-48d6-be03-973ade370567</guid>
+            <pubDate>Fri, 22 Apr 2016 00:22:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d66cf38-95a8-4f38-b542-9a28f3e5dc6c.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/3825f34d-5125-4fa6-8587-b50287169b53/index.html</link>
             <guid isPermaLink="false">3825f34d-5125-4fa6-8587-b50287169b53</guid>
             <pubDate>Thu, 21 Apr 2016 22:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Practice has revealed comfort in the most awkward places, and beauty in the most common objects. The stillness between breaths, the void between thoughts, cracks in the pavement... Here, residing.. The glint of sunlight off a piece of gravel, catches my eye, and I am lost.. No longer discerning.. For a moment.. For a brief expanse.. I am free.</p>]]></description>
-            <link>https://thegrid.ai/yogamike/practice-has-revealed-comfort-in-the-most-awkward-places-an/index.html</link>
-            <guid isPermaLink="false">0d6314f4-3d43-457a-8654-11b92156d143</guid>
-            <pubDate>Thu, 21 Apr 2016 22:50:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
