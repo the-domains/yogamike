@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 16:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 16:33:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>When you let your practice go, you are letting your body and your mind go too - you start to feel bad and go crazy. Continuous practice over a long time is called abhyasa, and it leads to an overall state of peace and tranquility.</p>]]></description>
+            <link>https://thegrid.ai/yogamike/when-you-let-your-practice-go-you-are-letting-your-body-and/index.html</link>
+            <guid isPermaLink="false">62a6c847-c25a-41b3-9344-55f1f659d22c</guid>
+            <pubDate>Fri, 22 Apr 2016 16:33:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c5db851-84e1-4328-be92-7865a9d0e14d.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/da073759-45bd-4122-9e11-a4ea7cdc3339/index.html</link>
             <guid isPermaLink="false">da073759-45bd-4122-9e11-a4ea7cdc3339</guid>
             <pubDate>Thu, 21 Apr 2016 23:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Whatever I'm doing, however exciting or mundane.. No matter.. I can find bliss in the experience.. I can be present.</p>]]></description>
-            <link>https://thegrid.ai/yogamike/whatever-im-doing-however-exciting-or-mundane-no-matter/index.html</link>
-            <guid isPermaLink="false">0fffe292-7476-4e3c-bac4-e9974515fc89</guid>
-            <pubDate>Thu, 21 Apr 2016 23:00:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
