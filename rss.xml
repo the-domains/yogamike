@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 00:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 00:27:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Don't simply take the word of another. Seek understanding through your own personal exploration. Let the practice teach you.</p>]]></description>
+            <link>https://thegrid.ai/yogamike/dont-simply-take-the-word-of-another-seek-understanding-th/index.html</link>
+            <guid isPermaLink="false">3891dc54-ff14-4bb9-98e5-1c7bb9d27b29</guid>
+            <pubDate>Fri, 22 Apr 2016 00:26:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12950890-3e59-4043-a0eb-a55eda5fe605.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/97168670-756a-48c3-9beb-95ed383680fd/index.html</link>
             <guid isPermaLink="false">97168670-756a-48c3-9beb-95ed383680fd</guid>
             <pubDate>Thu, 21 Apr 2016 22:59:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Attentive awareness of the present moment, whether that is a a sensation, a posture, a movement, a breath, or some combination thereof.. Awareness of what you're feeling, what you're doing, how it feels, how you do it... I intend to make this connection continuously throughout my practice, and my teaching.</p>]]></description>
-            <link>https://thegrid.ai/yogamike/attentive-awareness-of-the-present-moment-whether-that-is-a/index.html</link>
-            <guid isPermaLink="false">6199caad-5a6e-4a62-9086-bd583391b00c</guid>
-            <pubDate>Thu, 21 Apr 2016 22:57:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
