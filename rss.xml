@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 00:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 00:24:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12950890-3e59-4043-a0eb-a55eda5fe605.jpg">]]></description>
+            <link>https://thegrid.ai/yogamike/d11cdf69-4810-4e28-ac5f-4c51d7c9e786/index.html</link>
+            <guid isPermaLink="false">d11cdf69-4810-4e28-ac5f-4c51d7c9e786</guid>
+            <pubDate>Fri, 22 Apr 2016 00:23:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My yoga practice is not merely about what I can do.. it's about how I do whatever it is that I am currently doing.]]></title>
             <description><![CDATA[<h1>My yoga practice is not merely about what I can do.. it's about how I do whatever it is that I am currently doing.</h1>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/attentive-awareness-of-the-present-moment-whether-that-is-a/index.html</link>
             <guid isPermaLink="false">6199caad-5a6e-4a62-9086-bd583391b00c</guid>
             <pubDate>Thu, 21 Apr 2016 22:57:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac2c961-741f-42ae-949e-149fea54f577.jpg">]]></description>
-            <link>https://thegrid.ai/yogamike/3825f34d-5125-4fa6-8587-b50287169b53/index.html</link>
-            <guid isPermaLink="false">3825f34d-5125-4fa6-8587-b50287169b53</guid>
-            <pubDate>Thu, 21 Apr 2016 22:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
