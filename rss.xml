@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 00:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 00:18:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d66cf38-95a8-4f38-b542-9a28f3e5dc6c.jpg">]]></description>
+            <link>https://thegrid.ai/yogamike/815936b8-984b-483b-8f70-68b5897eb655/index.html</link>
+            <guid isPermaLink="false">815936b8-984b-483b-8f70-68b5897eb655</guid>
+            <pubDate>Fri, 22 Apr 2016 00:18:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Teachers often say "listen to your body"... but are the students equipped with the options to make individual modifications and omissions? Home practice has been so beneficial to me - my body has taught me how it works best.. In many situations, I have found it is quite different than what I have been told in classes, videos, or books.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/practice-has-revealed-comfort-in-the-most-awkward-places-an/index.html</link>
             <guid isPermaLink="false">0d6314f4-3d43-457a-8654-11b92156d143</guid>
             <pubDate>Thu, 21 Apr 2016 22:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e91211f1-a6e7-4a32-8c93-9c06d8899f3a.jpg">]]></description>
-            <link>https://thegrid.ai/yogamike/d385b533-bdb9-45c7-bc02-2ee38617428e/index.html</link>
-            <guid isPermaLink="false">d385b533-bdb9-45c7-bc02-2ee38617428e</guid>
-            <pubDate>Thu, 21 Apr 2016 22:47:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
