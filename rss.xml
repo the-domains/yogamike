@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Mirabal - Yoga]]></description>
         <link>https://thegrid.ai/yogamike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 17:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 17:28:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yogamike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01480e86-9eb3-48fa-8ae5-93706745a052.png">]]></description>
+            <link>https://thegrid.ai/yogamike/b5a93ab7-0e2a-4cb8-8e85-be6b060bbde5/index.html</link>
+            <guid isPermaLink="false">b5a93ab7-0e2a-4cb8-8e85-be6b060bbde5</guid>
+            <pubDate>Sun, 24 Apr 2016 17:18:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d450b2b9-0e1a-4ec6-a9c2-0dc5359059d6.jpg" alt="" title="" />]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yogamike/98eec7b1-5faa-4a4e-af99-8f868080af67/index.html</link>
             <guid isPermaLink="false">98eec7b1-5faa-4a4e-af99-8f868080af67</guid>
             <pubDate>Fri, 22 Apr 2016 00:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[May we all continue to be blessed with the natural splendor of life, and continue to uphold it as sacred and essential.]]></title>
-            <description><![CDATA[<h1>May we all continue to be blessed with the natural splendor of life, and continue to uphold it as sacred and essential.</h1>]]></description>
-            <link>https://thegrid.ai/yogamike/may-we-all-continue-to-be-blessed-with-the-natural-splendor/index.html</link>
-            <guid isPermaLink="false">e0b9b3f6-19c2-417d-b151-05e297a9e9e3</guid>
-            <pubDate>Thu, 21 Apr 2016 23:03:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
